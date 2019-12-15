@@ -66,7 +66,7 @@ public class App3 {
     			i=i+2;
     		}else {
     			op[j]= ch[i];
-    			sb.append(ch[i]);
+    			sb.append(op[j]);
     			j++;
     			i++;
     		}
